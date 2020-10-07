@@ -1,3 +1,11 @@
+# Получить список открытых api
+
+![Скриншот](https://github.com/SLKarol/getListApi/raw/master/screenshots/screenshot.png)
+
+Это приложение обращается к этому [списку api](https://api.publicapis.org/entries) и предоставляет интерфейс для работы с ответом: поиск, фильтрация.
+
+В качестве строительных кирпичей использовался ReactJS, MobX, Material UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
