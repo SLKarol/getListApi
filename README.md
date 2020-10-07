@@ -1,6 +1,6 @@
 # Получить список открытых api
 
-![Скриншот](https://github.com/SLKarol/getListApi/raw/master/screenshots/screenshot.png)
+![Скриншот](https://raw.githubusercontent.com/SLKarol/getListApi/main/screenshots/screenshot.png)
 
 Это приложение обращается к этому [списку api](https://api.publicapis.org/entries) и предоставляет интерфейс для работы с ответом: поиск, фильтрация.
 
