@@ -2,7 +2,7 @@
 
 ![Скриншот](https://raw.githubusercontent.com/SLKarol/getListApi/main/screenshots/screenshot.png)
 
-Это приложение обращается к этому [списку api](https://api.publicapis.org/entries) и предоставляет интерфейс для работы с ответом: поиск, фильтрация.
+Веб-приложение обращается к этому [списку api](https://api.publicapis.org/entries) и предоставляет интерфейс для работы с ответом: поиск, фильтрация.
 
 В качестве строительных кирпичей использовался ReactJS, MobX, Material UI.
 
